@@ -8,4 +8,5 @@ fun main(args: Array<String>)
 //    println("Sum is ${num1-num2-num3}")
     var num4 = -num1
     println(num4)
+    //-10
 }

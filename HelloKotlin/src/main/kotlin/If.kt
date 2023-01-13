@@ -10,4 +10,5 @@ fun main(args: Array<String>)
 //        println("Null")
 //    }
     if (10>20) println("yes") else println("no")
+    //no
 }

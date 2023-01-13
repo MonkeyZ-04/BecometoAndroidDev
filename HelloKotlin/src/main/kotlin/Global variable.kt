@@ -11,8 +11,10 @@ fun main(args: Array<String>) {
 fun sayHello(name: String): String {
     var hello = "Hello $name"
     return hello
+    //Hello Non
 }
 
 fun sayGoodBye(name: String) {
     println("$nickname Bye Bye ! $name")
+    //Nonnon Bye Bye ! Non
 }

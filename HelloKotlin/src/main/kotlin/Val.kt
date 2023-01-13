@@ -6,4 +6,6 @@ fun main(args: Array<String>)
     number =30
     println(number+number2)
 //    val = static value ค่าที่เปลี่ยนแปลงค่าใหม่ไม่ได้
+    //50
+    //60
 }

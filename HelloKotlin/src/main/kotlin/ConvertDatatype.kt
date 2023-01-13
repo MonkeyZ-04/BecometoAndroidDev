@@ -4,4 +4,7 @@ fun main(args: Array<String>)
     var price = readLine()!!.toInt()
     var total = price+(price*7/100)
     println(total)
+    //Hello !
+    //100
+    //107
 }

@@ -7,4 +7,7 @@ fun main(args: Array<String>)
         println("Go in!")
     else
         println("Go away!")
+    //admin
+    //1234
+    //Go in!
 }

@@ -5,4 +5,5 @@ fun main(args: Array<String>){
         println(i++)
     }while (i < j)
 // บังคับให้ while ทำงานก่อนสักครั้งแล้วค่อยตรวจสอบ
+//10
 }

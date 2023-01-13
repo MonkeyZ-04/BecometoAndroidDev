@@ -13,4 +13,8 @@ fun main(args: Array<String>) {
     for (line in 0..myarray.size-1){
         println(myarray[line])
     }
+    //H
+    //e
+    //l
+    //o
 }

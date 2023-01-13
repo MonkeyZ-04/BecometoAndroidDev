@@ -5,4 +5,5 @@ fun main(args: Array<String>)
     var num3 = 2
 //    println(num2/num1)
     println(num3/num1.toFloat())
+    //0.4
 }
